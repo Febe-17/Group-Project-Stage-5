@@ -26,9 +26,7 @@ module.exports = {
           fullname: 'Super Admin',
           email : 'admin@gmail.com',
           password : hashPassword,
-          role : 'admin',
-          createdAt: Date.now(), 
-          updatedAt: Date.now()
+          role : 'admin'
         },
       ], {});
   },
