@@ -10,21 +10,15 @@ module.exports = {
          [
           {
             name: 'Low',
-            color : 'badge-secondary',
-            createdAt: Date.now(), 
-            updatedAt: Date.now()
+            color : 'badge-secondary'
           },
           {
             name: 'Medium',
-            color : 'badge-info',
-            createdAt: Date.now(), 
-            updatedAt: Date.now()
+            color : 'badge-info'
           },
           {
             name: 'High',
-            color : 'badge-danger',
-            createdAt: Date.now(), 
-            updatedAt: Date.now()
+            color : 'badge-danger'
           },
         ], {});
     
